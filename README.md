@@ -89,5 +89,3 @@ This is also the approach I would bring to experimental research: define the int
 ## Repository Contents
 
 This initial version contains the project overview. Original configuration exports, topology screenshots and detailed test records are not yet included.
-# fortigate-sdwan-security-lab
-FortiGate SD-WAN and network security lab in EVE-NG:segmentation, firewall policies and WAN failover
